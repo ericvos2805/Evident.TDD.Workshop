@@ -14,10 +14,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="3. ComponentFactory\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\Evident.TDD.Workshop\Evident.TDD.Workshop.csproj" />
   </ItemGroup>
 
